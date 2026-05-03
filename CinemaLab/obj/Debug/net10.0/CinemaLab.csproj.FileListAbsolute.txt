@@ -1,0 +1,14 @@
+/Users/macbook/RiderProjects/1/CinemaLab/CinemaLab/bin/Debug/net10.0/CinemaLab
+/Users/macbook/RiderProjects/1/CinemaLab/CinemaLab/bin/Debug/net10.0/CinemaLab.deps.json
+/Users/macbook/RiderProjects/1/CinemaLab/CinemaLab/bin/Debug/net10.0/CinemaLab.runtimeconfig.json
+/Users/macbook/RiderProjects/1/CinemaLab/CinemaLab/bin/Debug/net10.0/CinemaLab.dll
+/Users/macbook/RiderProjects/1/CinemaLab/CinemaLab/bin/Debug/net10.0/CinemaLab.pdb
+/Users/macbook/RiderProjects/1/CinemaLab/CinemaLab/obj/Debug/net10.0/CinemaLab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/RiderProjects/1/CinemaLab/CinemaLab/obj/Debug/net10.0/CinemaLab.AssemblyInfoInputs.cache
+/Users/macbook/RiderProjects/1/CinemaLab/CinemaLab/obj/Debug/net10.0/CinemaLab.AssemblyInfo.cs
+/Users/macbook/RiderProjects/1/CinemaLab/CinemaLab/obj/Debug/net10.0/CinemaLab.csproj.CoreCompileInputs.cache
+/Users/macbook/RiderProjects/1/CinemaLab/CinemaLab/obj/Debug/net10.0/CinemaLab.dll
+/Users/macbook/RiderProjects/1/CinemaLab/CinemaLab/obj/Debug/net10.0/refint/CinemaLab.dll
+/Users/macbook/RiderProjects/1/CinemaLab/CinemaLab/obj/Debug/net10.0/CinemaLab.pdb
+/Users/macbook/RiderProjects/1/CinemaLab/CinemaLab/obj/Debug/net10.0/CinemaLab.genruntimeconfig.cache
+/Users/macbook/RiderProjects/1/CinemaLab/CinemaLab/obj/Debug/net10.0/ref/CinemaLab.dll
