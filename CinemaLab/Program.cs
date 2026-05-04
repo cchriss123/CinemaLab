@@ -7,14 +7,14 @@ class Program
     static void Main(string[] args)
     {
         
-        var menuText = """
-                       Välkommen till programmets huvudmeny! Välj ett av följande alternativ.
-                       0. Avsluta program.
-                       1. Ungdom eller pensionär.
-                       2. Grupp.
-                       3. Upprepa input 10 gånger.
-                       4. Det tredje ordet.
-                       """;
+        const string menuText = """
+                                Välkommen till programmets huvudmeny! Välj ett av följande alternativ.
+                                0. Avsluta program.
+                                1. Ungdom eller pensionär.
+                                2. Grupp.
+                                3. Upprepa input 10 gånger.
+                                4. Det tredje ordet.
+                                """;
 
         var isRunning = true;
         
@@ -147,8 +147,8 @@ class Program
                 Console.Write("Din mening innehåller inte 3 ord. ");
                 continue;
             }
-            words = tempWords;
-            break;
+            words = tempWords; 
+            break; 
         }
         return $"Det tredje ordet i meningen är {words[2]}.";
     }

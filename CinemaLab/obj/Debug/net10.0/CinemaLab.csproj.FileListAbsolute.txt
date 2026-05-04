@@ -12,3 +12,4 @@
 /Users/macbook/RiderProjects/1/CinemaLab/CinemaLab/obj/Debug/net10.0/CinemaLab.pdb
 /Users/macbook/RiderProjects/1/CinemaLab/CinemaLab/obj/Debug/net10.0/CinemaLab.genruntimeconfig.cache
 /Users/macbook/RiderProjects/1/CinemaLab/CinemaLab/obj/Debug/net10.0/ref/CinemaLab.dll
+/Users/macbook/RiderProjects/1/CinemaLab/CinemaLab/obj/Debug/net10.0/CinemaLab.sourcelink.json
